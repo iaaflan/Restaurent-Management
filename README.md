@@ -1,10 +1,10 @@
 # Restaurant-Management
 This application was created as project, for Semester 2, The idea of this application is Restaurant management. Where we used two entity, One is customer, and the other one is Administrator. The Customer will be able to to fixed functions and the administration will be able to do all the available tasks. More will be posted in the readme file.
 
-Codeblocks \n
-Language: C \n
-Please install the codebloack and create a file, (i.e RMC.c) and copy paste the code and run it.\n
-** make sure to have the following files in the same directory as the original files = 'int.txt', 'menu.txt', 'password.txt' \n
+Codeblocks
+Language: C
+Please install the codebloack and create a file, (i.e RMC.c) and copy paste the code and run it.
+** make sure to have the following files in the same directory as the original files = 'int.txt', 'menu.txt', 'password.txt'
 This project was done as a pair. Code Contributor: Ifaz Ahmed Aflan & ABM Fahim Shahriar.
 Islamic University of Technology
 
