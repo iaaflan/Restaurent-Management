@@ -4,7 +4,7 @@ This application was created as project, for Semester 2, The idea of this applic
 Codeblocks
 Language: C
 Please install the codebloack and create a file, (i.e RMC.c) and copy paste the code and run it.
-** make sure to have the following files in the same directory as the original files = 'int.txt', 'menu.txt', 'password.txt'
+** make sure to have the following files in the same directory as the original files = 'int.txt', 'menu.txt', 'password.txt', 'cusfeed.txt'.
 This project was done as a pair. Code Contributor: Ifaz Ahmed Aflan & ABM Fahim Shahriar.
 Islamic University of Technology
 
