@@ -44,16 +44,16 @@ Functions
 7. void Admin_Menu(void) = Contains functions used in administrator menu.
 8. void mainmenu001(void) = Contains functions used in main menu.
 9. void cusmenu(void) = Contains functions used in customer menu.
-10.void addfoods(void) = The function is used to add foods by admin.
-11.void deletefoods(void) = The function is used to delete foods by admin.
-12.void orderfood(void) = The function is used to order food.
-13.void viewfoods(void) = The function is used to view foods by admin.
-14.void cusviewfoods(void) = The function is used to view foods by customer.
-15.void cusfeedback(void) = The function is used to give feedback.
-16.void adfeedback(void) = The function is to show feedback to admin.
-17.void closeapplication(void) = The function is used to close application.
-18.int getdata() = The function is used to find food using it's ID & Add it in file.
-19.int checkid(int) = The function is used to check for food.
+10. void addfoods(void) = The function is used to add foods by admin.
+11. void deletefoods(void) = The function is used to delete foods by admin.
+12. void orderfood(void) = The function is used to order food.
+13. void viewfoods(void) = The function is used to view foods by admin.
+14. void cusviewfoods(void) = The function is used to view foods by customer.
+15. void cusfeedback(void) = The function is used to give feedback.
+16. void adfeedback(void) = The function is to show feedback to admin.
+17. void closeapplication(void) = The function is used to close application.
+18. int getdata() = The function is used to find food using it's ID & Add it in file.
+19. int checkid(int) = The function is used to check for food.
 
 Detailed presentation can be found at: (This includes screenshot of the interface - CMD Interface)
 https://www.slideshare.net/IfazAhmed/restaurant-management-system-194315329
